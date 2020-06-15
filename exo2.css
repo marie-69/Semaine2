@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    background-color: teal;
+    padding: 5px 10px;
+}
+
+h1{
+    font-size: 1.5em;
+    text-decoration-line: underline salmon dotted;
+    margin-left: 20px;
+}
+
+section{
+    margin: 10px 40px;
+}
+
+h2{
+    font-size: 1.2em;
+}
+
+article{
+    background-color:rgb(235, 228, 228);
+    padding: 10px 20px;
+    margin-bottom: 16px;
+}
+
+h3{
+    font-weight: normal;
+    color: tomato;
+}
+
+a{
+    text-decoration-line: none;
+    color: teal;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+li{
+    display: inline-block;
+}
+
+.carre1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.carre2{
+    background-color: lawngreen;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}

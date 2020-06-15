@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: red ;
+}
+
+p.first{
+    color: blue;
+    font-style: italic;
+    width: 500px;
+    text-indent: 40px;
+}
+
+.encadré{
+ border: 2px solid blue;
+ border-style: dotted;
+}
+
+p.second{
+    color: tomato;
+    text-align: center;
+    border: 2px solid red;
+    padding: 100px;
+    margin: 100px;
+}
+
+p.third{
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    background-color: green;
+    padding: 50px;
+}

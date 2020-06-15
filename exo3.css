@@ -1,0 +1,14 @@
+h1{
+    color: skyblue;
+    background-color: teal;
+    font-size: 32px;
+    padding: 12px;
+    margin: 24px;
+}
+
+h2{
+    background-color: lightsalmon;
+    border: red solid 2px;
+    margin: 50px;
+}
+
